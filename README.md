@@ -92,6 +92,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CamBish&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamBish&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oz6qdfdd1hddr3vk5deqfdkz5&cover_image=true&theme=default" /></div>  
@@ -122,8 +124,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<!---
-CamBish/CamBish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
