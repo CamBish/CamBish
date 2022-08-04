@@ -30,8 +30,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />    
 </div>
 
 </td><td valign="top" width="33%">
@@ -90,20 +89,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CamBish&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamBish&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oz6qdfdd1hddr3vk5deqfdkz5&cover_image=true&theme=default" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CamBish&&style=flat-square" align="center" />
 </div>  
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
 
 <br/>  
 
