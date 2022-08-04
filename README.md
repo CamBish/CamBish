@@ -89,13 +89,13 @@
 
 
 ## Github Stats  
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CamBish&&style=flat-square" align="center" />
 </div>  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka--> 
+
 
 <br/>  
 
@@ -114,5 +114,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
