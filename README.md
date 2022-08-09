@@ -82,6 +82,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cameron-bishop-551717175/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://paypal.me/cambishwow" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
+</a>
+<a href="https://www.buymeacoffee.com/cambish" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"/>
+</a>
 </div>  
   
 
@@ -163,25 +169,6 @@ JavaScript               1 repo              ████░░░░░░░�
  Last Updated on 09/08/2022 23:41:17 UTC
 <!--END_SECTION:waka--> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=CamBish&&style=flat-square" align="center" />
-</div>  
 
 
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/cambishwow" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/cambish" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
