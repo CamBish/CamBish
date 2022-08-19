@@ -99,9 +99,9 @@
 
 ## Github Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -144,11 +144,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 49 mins      █████████████████████████   99.97% 
+Python                   19 hrs 21 mins      █████████████████████████   99.97% 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🐱‍💻 Projects: 
-tesseract-explore        19 hrs 49 mins      █████████████████████████   100.0%
+tesseract-explore        19 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -163,7 +163,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 02:04:33 UTC
+ Last Updated on 19/08/2022 01:58:47 UTC
 <!--END_SECTION:waka--> 
 
 
