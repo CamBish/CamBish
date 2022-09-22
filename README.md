@@ -99,7 +99,7 @@
 
 ## Github Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,11 +144,12 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   100.0%
+Python                   1 hr 2 mins         █████████████████████████   99.88% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🐱‍💻 Projects: 
-Optical-Graph-and-DFA-Rec17 mins             ████████████████████████░   99.02% 
-tesseract-explore        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+Optical-Graph-and-DFA-Rec1 hr                ████████████████████████░   97.03% 
+tesseract-explore        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
 
 ```
 
@@ -163,7 +164,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 21/09/2022 02:25:13 UTC
+ Last Updated on 22/09/2022 02:08:34 UTC
 <!--END_SECTION:waka--> 
 
 
