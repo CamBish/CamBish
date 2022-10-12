@@ -144,10 +144,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Optical-Graph-and-DFA-Rec1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -162,7 +162,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/10/2022 02:05:07 UTC
+ Last Updated on 12/10/2022 02:23:42 UTC
 <!--END_SECTION:waka--> 
 
 
