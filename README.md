@@ -6,7 +6,7 @@
 ### <div align="center">I'm Cameron, an aspiring ML Engineer 📊 and current Master's of Computer Engineering Student @ QU 📜</div>  
   
 
-- 💼 I’m currently a Master's of Applied Science Student @ [Queen's University]([https://www.ece.queensu.ca/])  
+- 💼 I’m currently a Master's of Applied Science Student @ [Queen's University] ([https://www.ece.queensu.ca/])  
   
 
 - 🌱 I’m currently improving my Python ML skills and learning JavaScript along with playing around with Rust 
