@@ -9,7 +9,7 @@
 - 💼 I’m currently a Master's of Applied Science Student at [Queen's University](https://www.ece.queensu.ca/)
   
 
-- 🌱 I’m currently improving my Python ML skills and learning JavaScript along with playing around with Rust 
+- 🌱 I’m currently improving my Python deep learning skills, but also self-hosting many services and my own website with Docker!
   
 
 - ❓ Ask me about how my thesis research is going!  
