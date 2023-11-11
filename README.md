@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cameron, an aspiring ML Engineer 📊 and current Master's of Computer Engineering Student @ QU 📜</div>  
+### <div align="center">I'm Cameron, an aspiring Indigenous ML Engineer 📊 and current Master's of Computer Engineering Student @ QU 📜</div>  
   
 
 - 💼 I’m currently a Master's of Applied Science Student at [Queen's University](https://www.ece.queensu.ca/)
@@ -15,7 +15,7 @@
 - ❓ Ask me about how my thesis research is going!  
   
 
-- ⚡ Fun fact: I am currently learning how to code without using my mouse  
+- ⚡ Fun fact: I am Métis, and a member of the Métis nation of Alberta!  
   
 
 <br/>  
