@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cameron, an aspiring Indigenous ML Engineer 📊 and current Master's of Computer Engineering Student @ QU 📜</div>  
+### <div align="center">I'm Aspen, an aspiring Indigenous ML Engineer 📊 and current Master's of Computer Engineering Student @ QU 📜</div>  
   
 
 - 💼 I’m currently a Master's of Applied Science Student at [Queen's University](https://www.ece.queensu.ca/)
